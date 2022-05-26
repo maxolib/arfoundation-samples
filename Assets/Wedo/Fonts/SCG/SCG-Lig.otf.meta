@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 7cd659ca7a7ff4cb99f57e73fc054fd0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SCG
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1b8a2d70e9d254436888f310c87e5ab4, type: 3}
+  - {fileID: 12800000, guid: c4dc60091b8e940abaaa34db30d8f6e2, type: 3}
+  - {fileID: 12800000, guid: 24058b3b19ce0478e9da710cac0604f2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
